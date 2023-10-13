@@ -1,5 +1,3 @@
-package com.example.kotlin200
-
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
