@@ -10,5 +10,5 @@ fun main(args: Array<String>)
 	println(obj!!.name)
 
 	obj = null
-	obj!!.print()
+//	obj!!.print()
 }
